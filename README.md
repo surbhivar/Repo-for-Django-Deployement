@@ -1,2 +1,2 @@
 # Repo-for-Django-Deployement
-Deployement on  pythonanywhere.com
+ Deployed on  pythonanywhere.com
